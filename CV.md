@@ -9,6 +9,8 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
 
+<img src="assets/img/profile-image.jpg" width="200px" style="border-radius: 50rem;" />
+
 ## Experience
 
 ### Software Engineer at [Derivative](https://www.linkedin.com/company/73797/)
@@ -28,7 +30,9 @@ I was responsible for a different websites and web services development and main
 * We migrated [RockPeaks site](https://rockpeaks.com) from the Drupal 6 to the headless Drupal 8 + React.js.
 * I have maintained plug-in for a Plex Media Server to integrate with a [RockPeaks site](https://rockpeaks.com) user library to fetch metadata.
 * I have developed an NFT smart contracts on a FLOW blockchain and integrated with a [Dapper Wallet](https://meetdapper.com).
-* ...
+* I maintained AWS infrastructure to provide a CI/CD for Drupal and Next.js.
+* We have migrated several Drupal 7 sites to Drupal 8/9.
+* I have built several integrations with a 3rd-party service, like Plex, Youtube, Dropbox etc.
 
 Skills: PHP, MySQL, Drupal, NodeJs, Python, React, GraphQL, Docker, Amazon Web Services (AWS)
 
@@ -41,7 +45,6 @@ As a CTO I was responsible for interviewing and hiring new employees. I worked o
 * I led a team of 8-12 people.
 * We run several projects and contributed to several Drupal modules.
 * I prototyped an IoT app for iOS built on top of React Native, and built a backend based on MQTT protocol using Mosquitto (there is an [example repo](https://github.com/thelebster/example-mosquitto-simple-auth-docker) that was a setup core).
-* ...
 
 Skills: Leadership, Project Management, Mentorship, PHP, MySQL, Drupal 7/8, Node.js, Docker
 
