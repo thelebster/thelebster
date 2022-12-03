@@ -1,5 +1,11 @@
 # Anton Lebedev
 
+<div class="profile-image-wrapper">
+    <div class="profile-image">
+        <img src="assets/img/profile-image.jpg" width="150px" />
+    </div>
+</div>
+
 I'm a software engineer, currently based in Yerevan, Armenia 🇦🇲
 
 I'm skilled in various web technologies and passionate about to build web-services and automation everything around mostly in PHP, Node.js and Python.
@@ -9,7 +15,7 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
 
-<img src="assets/img/profile-image.jpg" width="200px" style="border-radius: 50rem;" />
+<div class="clearfix"></div>
 
 ## Experience
 
