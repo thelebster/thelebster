@@ -15,6 +15,10 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
 
+<div class="download">
+    <span>💾 <a href="https://github.com/thelebster/thelebster/raw/master/AntonLebedev_CV.pdf">Download as PDF</a></span>
+</div>
+
 <div class="clearfix"></div>
 
 ## Experience

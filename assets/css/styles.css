@@ -25,3 +25,6 @@
     clear: both;
     display: table;
 }
+.download {
+    display: none;
+}
