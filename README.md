@@ -9,6 +9,7 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * GitHub: [github.com/thelebster](https://github.com/thelebster) 
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
+* [Вастрик ✖️ Клуб](https://vas3k.club/user/lebster/)  
 * 🇦🇲 Yerevan, Armenia
 
 Please, check out **[my CV](CV.md)** for details about my past and current experience.
