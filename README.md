@@ -12,6 +12,8 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * [Вастрик ✖️ Клуб](https://vas3k.club/user/lebster/)
 * Upwork: https://www.upwork.com/freelancers/~01bbdf8d0cecfc6d23
 
+Currently based in Novi Sad, Serbia 🇷🇸.
+
 Please, check out **[my CV](CV.md)** for details about my past and current experience.
 
 From time to time I make [contributions to the Drupal community](https://www.drupal.org/u/lebster).

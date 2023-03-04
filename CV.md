@@ -6,7 +6,7 @@
     </div>
 </div>
 
-I'm a software engineer, currently based in Yerevan, Armenia 🇦🇲
+I'm a software engineer, currently based in Novi Sad, Serbia 🇷🇸.
 
 I'm skilled in various web technologies and passionate about to build web-services and automation everything around mostly in PHP, Node.js and Python.
 
@@ -25,7 +25,7 @@ I'm skilled in various web technologies and passionate about to build web-servic
 ## Experience
 
 ### Software Engineer at [Derivative](https://www.linkedin.com/company/73797/)
-Yerevan, Armenia (Contract, Remote)  
+Novi Sad, Serbia. (Contract, Remote)  
 **Oct 2022 – Present**
 
 I'm a part of the web development team and responsible for a website development, website migration to a new platform and CI/CD automation.
