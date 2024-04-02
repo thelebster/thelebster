@@ -10,7 +10,6 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
 * [Вастрик ✖️ Клуб](https://vas3k.club/user/lebster/)
-* Upwork: https://www.upwork.com/freelancers/~01bbdf8d0cecfc6d23
 
 Currently based in Novi Sad, Serbia 🇷🇸.
 

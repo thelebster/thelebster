@@ -14,7 +14,6 @@ I'm skilled in various web technologies and passionate about to build web-servic
 * GitHub: [github.com/thelebster](https://github.com/thelebster) 
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
-* Upwork: https://www.upwork.com/freelancers/~01bbdf8d0cecfc6d23
 
 <div class="download">
     <span>💾 <a href="https://github.com/thelebster/thelebster/raw/master/AntonLebedev_CV.pdf">Download as PDF</a></span>
@@ -33,7 +32,7 @@ I'm a part of the web development team and responsible for a website development
 Skills: Amazon Web Services (AWS), PHP, Drupal, MySQL
 
 ### Software Engineer at [Slaight Music](https://www.linkedin.com/company/slaight-music/)
-Saint Petersburg, Russia (Full-time, Remote)  
+Saint Petersburg, Russia (Part-time, Remote)  
 **Nov 2018 – Present**
 
 I was responsible for a different websites and web services development and maintenance.
@@ -64,7 +63,7 @@ Skills: Leadership, Project Management, Mentorship, PHP, MySQL, Drupal 7/8, Node
 Omsk, Russia (Freelance)  
 **2013 – May 2014**
 
-As a full stack developer I developed websites mostly using Drupal 7 and JavaScript via [Upwork](https://www.upwork.com/freelancers/~01bbdf8d0cecfc6d23) (formerly oDesk).
+As a full stack developer I developed websites mostly using Drupal 7 and JavaScript via Upwork (formerly oDesk).
 
 Skills: PHP, MySQL, Drupal 7, JavaScript, CSS/HTML, Node.js 
 
