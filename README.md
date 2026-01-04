@@ -9,6 +9,6 @@ I'm a software engineer skilled in web technologies, passionate about building w
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
 * [Вастрик ✖️ Клуб](https://vas3k.club/user/lebster/)
 
-Check out **[my CV](src/cv.md)** for details about my experience.
+Check out [my CV](src/cv.md) or [download as PDF](https://thelebster.github.io/thelebster/AntonLebedev-CV.pdf) for details about my experience.
 
 I contribute to open source, particularly [Drupal](https://www.drupal.org/u/lebster).
