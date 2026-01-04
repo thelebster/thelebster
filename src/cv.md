@@ -1,27 +1,27 @@
 # Anton Lebedev
 
-<div class="profile-image-wrapper">
-    <div class="profile-image">
-        <img src="assets/img/profile-image.jpg" width="150px" />
-    </div>
-</div>
+[//]: # (![Profile]&#40;assets/img/profile-image.jpg&#41;)
 
-I'm a software engineer, currently based in Novi Sad, Serbia 🇷🇸.
+I'm a software engineer, currently based in Belgrade, Serbia 🇷🇸.
 
 I'm skilled in various web technologies and passionate about to build web-services and automation everything around mostly in PHP, Node.js and Python.
 
-* Email: mailbox@lebster.me 
+* Email: [hey@antonlebedev.net](mailto:hey@antonlebedev.net) 
 * GitHub: [github.com/thelebster](https://github.com/thelebster) 
 * Site: [lebster.me](https://lebster.me)
 * LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
 
 <div class="download">
-    <span>💾 <a href="https://github.com/thelebster/thelebster/raw/master/AntonLebedev_CV.pdf">Download as PDF</a></span>
+    <span><a href="https://thelebster.github.io/thelebster/AntonLebedev-CV.pdf">Download as PDF</a></span>
 </div>
 
 <div class="clearfix"></div>
 
 ## Experience
+
+### Software Engineer (Drupal) at [Altium d.o.o. Beograd - Novi Beograd](https://www.linkedin.com/company/altium/)
+Beograd, Serbia
+**May 2024 – Present**
 
 ### Software Engineer at [Derivative](https://www.linkedin.com/company/73797/)
 Novi Sad, Serbia. (Contract, Remote)  
@@ -33,7 +33,7 @@ Skills: Amazon Web Services (AWS), PHP, Drupal, MySQL
 
 ### Software Engineer at [Slaight Music](https://www.linkedin.com/company/slaight-music/)
 Saint Petersburg, Russia (Part-time, Remote)  
-**Nov 2018 – Present**
+**Nov 2018 – Sep 2022**
 
 I was responsible for a different websites and web services development and maintenance.
 
@@ -61,7 +61,7 @@ Skills: Leadership, Project Management, Mentorship, PHP, MySQL, Drupal 7/8, Node
 
 ### Developer at [BurningButtons](https://www.linkedin.com/company/burningbuttons/)
 Omsk, Russia (Freelance)  
-**2013 – May 2014**
+**Jul 2013 – May 2014**
 
 As a full stack developer I developed websites mostly using Drupal 7 and JavaScript via Upwork (formerly oDesk).
 
@@ -69,7 +69,7 @@ Skills: PHP, MySQL, Drupal 7, JavaScript, CSS/HTML, Node.js
 
 ### Developer at [Qliff](https://www.linkedin.com/company/qliff/)
 Omsk, Russia (Full-time)  
-**2010 – Aug 2013**
+**Jun 2010 – Aug 2013**
 
 Web development, mostly Drupal 7 via [Upwork](https://www.upwork.com/freelancers/~01bbdf8d0cecfc6d23) (formerly oDesk).
 

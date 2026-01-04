@@ -1,0 +1,19 @@
+.markdown-body {
+    max-width: 960px;
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+.markdown-body img {
+    width: 150px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.download {
+    display: none;
+}
