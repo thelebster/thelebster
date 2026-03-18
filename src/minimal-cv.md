@@ -6,8 +6,8 @@
 
 * Email: [hey@antonlebedev.net](mailto:hey@antonlebedev.net)
 * GitHub: [github.com/thelebster](https://github.com/thelebster)
-* Site: [lebster.me](https://lebster.me)
-* LinkedIn: [linkedin.com/in/lebster](https://www.linkedin.com/in/lebster/)
+* Site: [antonlebedev.net](https://antonlebedev.net)
+* LinkedIn: [linkedin.com/in/ugolek](https://www.linkedin.com/in/ugolek/)
 
 ## Education
 
