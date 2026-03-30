@@ -1,6 +1,6 @@
 # I'm Anton Lebedev
 
-I'm a software engineer skilled in web technologies, passionate about building web services and automating workflows using PHP, Node.js, and Python.
+I'm a software engineer skilled in web technologies, passionate about building web services and automation.
 
 * Email: [hey@antonlebedev.net](mailto:hey@antonlebedev.net)
 * Telegram: [@lebster](https://t.me/lebster)
